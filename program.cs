@@ -43,7 +43,7 @@ namespace Sphinx
             Console.WriteLine("Grr.... I guess you have passed my 3 riddles... You may proceed...");
           }
         }
-      }
+      } 
     }
     static void Main()
     {
